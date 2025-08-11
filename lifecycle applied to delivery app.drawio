@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="MIzmr-f41ViopZHYurPO">
+    <mxGraphModel dx="872" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qRGcoCZsE5RWJX_6f69G-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-1" value="Swiggy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qRGcoCZsE5RWJX_6f69G-4" target="qRGcoCZsE5RWJX_6f69G-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-4" value="Design UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qRGcoCZsE5RWJX_6f69G-5" target="qRGcoCZsE5RWJX_6f69G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-5" value="Add user sign in Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qRGcoCZsE5RWJX_6f69G-6" target="qRGcoCZsE5RWJX_6f69G-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-6" value="Adding choosing location Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qRGcoCZsE5RWJX_6f69G-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-7" value="Feature,Add list of Restaurants" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="sourcePoint" />
+            <mxPoint x="400" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="590" as="sourcePoint" />
+            <mxPoint x="400" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="qRGcoCZsE5RWJX_6f69G-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="qRGcoCZsE5RWJX_6f69G-21" target="qRGcoCZsE5RWJX_6f69G-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-21" value="Order tracking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-25" value="Add Cusiness offered" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-26" value="Add checkout page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGcoCZsE5RWJX_6f69G-27" value="Add cart Feature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
